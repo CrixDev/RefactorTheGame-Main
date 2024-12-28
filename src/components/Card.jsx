@@ -2,7 +2,7 @@
 
 function Card(){
 
-    const imagen = ["./src/assets/Undertale.png"]
+    const imagen = ["/assets/Undertale.png"]
     
     return(
     
