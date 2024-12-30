@@ -17,7 +17,6 @@ function Landing(){
         <img src="/assets/129471.gif" class="walking-gif gif1" alt="gif 1" />
         <img src="/assets/Mario.gif" class="walking-gif gif2" alt="gif 2" />
         <img src="/assets/Frisk.webp" class="walking-gif1 gif2" alt="gif 3" />
-        <img src="/assets/Kirby.gif" class="walking-gif gif3" alt="gif 4" />
         </div>
 
         <div className=" w-full h-0.5 bg-white my-8"></div>
