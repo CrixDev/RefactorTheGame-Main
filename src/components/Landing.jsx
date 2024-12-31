@@ -1,9 +1,12 @@
-import Card from "./Card"
+import Card from "./Card";
+import FollowCursor from "./FollowCursor"
 
 function Landing(){
 
+
     return(
     <div className="min-h-screen bg-[#000] bg-cover bg-center flex flex-col cursor-Crix">
+    
         <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
           <h1 className="text-white text-[96px] font-rubik80s">CrixDev</h1> 
           <img href="https://github.com/CrixGames" className="hover:cursor-CrixP" src="/assets/CrixPixel.png" alt="" />    
@@ -29,7 +32,7 @@ function Landing(){
             
         </div>
             
-        <div className="mx-28 flex justify-evenly items-center">
+        <div className="mx-28 pb-20 flex justify-evenly items-center">
         
         <Card imagen={"/assets/Undertale.png"} nombre={"Undertale"} genero={"RPG - Indie"} ruta={"#"}  />
          
