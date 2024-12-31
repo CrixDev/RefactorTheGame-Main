@@ -51,6 +51,7 @@ body {
   padding: 0; 
   height: 100%;
   overflow: scroll; /* Permite el scroll, pero ocultamos las barras */
+  
 }
 
 /* Para ocultar las barras de desplazamiento en navegadores Webkit (Chrome, Safari, etc.) */
@@ -109,8 +110,8 @@ body {
 
 /* Diferentes tiempos de animación para los GIFs */
 .gif1 {
-  animation-duration: 8s;
-  height: 100px; /* Ajusta el tamaño de los GIFs */
+  animation-duration: 6s;
+  height: 140px; /* Ajusta el tamaño de los GIFs */
   z-index: 3; /* Gif 1 en el frente */
 }
 

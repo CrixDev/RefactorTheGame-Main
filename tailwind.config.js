@@ -9,6 +9,10 @@ export default {
       fontFamily:{
         rubik80s: ['"Rubik 80s Fade"', 'cursive'],
       },
+      cursor: {
+        'Crix': 'url(crix.cur), pointer',
+        'CrixP': 'url(crixP.cur), pointer'
+      }
     },
   },
   plugins: [],
