@@ -34,7 +34,7 @@ function Landing(){
             
         <div className="mx-28 pb-20 flex justify-evenly items-center">
         
-        <Card imagen={"/assets/Undertale.png"} nombre={"Undertale"} genero={"RPG - Indie"} ruta={"#"}  />
+        <Card imagen={"/assets/Undertale.png"} nombre={"Undertale"} genero={"RPG - Indie"} ruta={"https://undertale-crix.vercel.app/"}  />
          
         <Card imagen={"/assets/Celeste.png"} nombre={"Celeste"} genero={"Plataform - Indie"}  />
          
